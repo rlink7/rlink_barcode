@@ -12,8 +12,8 @@ We have created multiple Excel tables with patient pseudonym codes and label con
 |:--------|:----------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
 | Pilot   | 2019-04-04 | [R-LiNK_patients_pilot_2019-04-04.xlsx](https://github.com/rlink7/rlink_barcode/blob/master/data/pilot_2019-04-08/R-LiNK_patients_pilot_2019-04-04.xlsx)  | Test codes for patients 998 and 999 in center 01 to 16                 |
 | Pilot   | 2019-04-04 | [R-LiNK_labels_pilot_2019-04-04.xlsx](https://github.com/rlink7/rlink_barcode/blob/master/data/pilot_2019-04-08/R-LiNK_labels_pilot_2019-04-04.xlsx)      | Labels generated for the above test patients - M00 time point only     |
-| Batch 1 | 2019-09-12 | [R-LiNK_patients_batch1_2019-09-12.xlsx](https://github.com/rlink7/rlink_barcode/blob/master/data/pilot_2019-09-12/R-LiNK_patients_pilot_2019-09-12.xlsx) | Codes for patients 001 to 020 in center 01 to 03                       |
-| Batch 1 | 2019-09-12 | [R-LiNK_labels_batch1_2019-09-12.xlsx](https://github.com/rlink7/rlink_barcode/blob/master/data/pilot_2019-09-12/R-LiNK_labels_pilot_2019-09-12.xlsx)     | Labels generated for the above test patients - time points M00 and M03 |
+| Batch 1 | 2019-09-12 | [R-LiNK_patients_batch1_2019-09-12.xlsx](https://github.com/rlink7/rlink_barcode/blob/master/data/pilot_2019-09-13/R-LiNK_patients_pilot_2019-09-12.xlsx) | Codes for patients 001 to 020 in center 01 to 03                       |
+| Batch 1 | 2019-09-12 | [R-LiNK_labels_batch1_2019-09-12.xlsx](https://github.com/rlink7/rlink_barcode/blob/master/data/pilot_2019-09-13/R-LiNK_labels_pilot_2019-09-12.xlsx)     | Labels generated for the above test patients - time points M00 and M03 |
 
 ## Generate barcodes in Microsoft Word
 
