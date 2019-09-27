@@ -8,12 +8,14 @@ manual input errors.
 
 We have created multiple Excel tables with patient pseudonym codes and label contents:
 
-|         | Date       | File                                                                                                                                                        | Description                                                            |
-|:--------|:----------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
-| Pilot   | 2019-04-04 | [R-LiNK_patients_pilot_2019-04-04.xlsx](https://github.com/rlink7/rlink_barcode/blob/master/data/pilot_2019-04-08/R-LiNK_patients_pilot_2019-04-04.xlsx)    | Test codes for patients 998 and 999 in center 01 to 16                 |
-| Pilot   | 2019-04-04 | [R-LiNK_labels_pilot_2019-04-04.xlsx](https://github.com/rlink7/rlink_barcode/blob/master/data/pilot_2019-04-08/R-LiNK_labels_pilot_2019-04-04.xlsx)        | Labels generated for the above test patients - M00 time point only     |
-| Batch 1 | 2019-09-12 | [R-LiNK_patients_batch1_2019-09-12.xlsx](https://github.com/rlink7/rlink_barcode/blob/master/data/batch1_2019-09-13/R-LiNK_patients_batch1_2019-09-12.xlsx) | Codes for patients 001 to 020 in center 01 to 03                       |
-| Batch 1 | 2019-09-12 | [R-LiNK_labels_batch1_2019-09-12.xlsx](https://github.com/rlink7/rlink_barcode/blob/master/data/batch1_2019-09-13/R-LiNK_labels_batch1_2019-09-12.xlsx)     | Labels generated for the above test patients - time points M00 and M03 |
+|         | Date       | File                                                                                                                                                        | Description                                                        |
+|:--------|:----------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------|
+| Pilot   | 2019-04-04 | [R-LiNK_patients_pilot_2019-04-04.xlsx](https://github.com/rlink7/rlink_barcode/blob/master/data/pilot_2019-04-08/R-LiNK_patients_pilot_2019-04-04.xlsx)    | Test codes for patients 998 and 999 in center 01 to 16             |
+| Pilot   | 2019-04-04 | [R-LiNK_labels_pilot_2019-04-04.xlsx](https://github.com/rlink7/rlink_barcode/blob/master/data/pilot_2019-04-08/R-LiNK_labels_pilot_2019-04-04.xlsx)        | Labels generated for the above test patients - M00 time point only |
+| Batch 1 | 2019-09-12 | [R-LiNK_patients_batch1_2019-09-12.xlsx](https://github.com/rlink7/rlink_barcode/blob/master/data/batch1_2019-09-13/R-LiNK_patients_batch1_2019-09-12.xlsx) | Codes for patients 001 to 020 in centres 01 to 03                  |
+| Batch 1 | 2019-09-12 | [R-LiNK_labels_batch1_2019-09-12.xlsx](https://github.com/rlink7/rlink_barcode/blob/master/data/batch1_2019-09-13/R-LiNK_labels_batch1_2019-09-12.xlsx)     | Labels generated for the above patients - time points M00 and M03  |
+| Batch 2 | 2019-09-27 | [R-LiNK_patients_batch2_2019-09-16.xlsx](https://github.com/rlink7/rlink_barcode/blob/master/data/batch2_2019-09-27/R-LiNK_patients_batch2_2019-09-16.xlsx) | Codes for patients 001 to 020 in centres 04-07, 09-10, 15          |
+| Batch 2 | 2019-09-27 | [R-LiNK_labels_batch2_2019-09-16.xlsx](https://github.com/rlink7/rlink_barcode/blob/master/data/batch2_2019-09-27/R-LiNK_labels_batch2_2019-09-16.xlsx)     | Labels generated for the above patients - time points M00 and M03  |
 
 ## Generate barcodes in Microsoft Word
 
@@ -40,11 +42,13 @@ Here are a few links of interest:
 
 ## Generate barcodes in LabelMark 6 for Brady labels
 
-We have prepared a model to generate labels for bilogical samples:
+We have prepared a model to generate labels for biolgical samples:
 
-| File                                                                                                                                               | Description                          |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------|
-| [R-LiNK_labels_pilot_2019-04-08.l6t](https://github.com/rlink7/rlink_barcode/blob/master/data/pilot_2019-04-08/R-LiNK_labels_pilot_2019-04-08.l6t) | model of labels used for pilot phase |
+| File                                                                                                                                                 | Description                      |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------|
+| [R-LiNK_labels_pilot_2019-04-08.l6t](https://github.com/rlink7/rlink_barcode/blob/master/data/batch1_2019-09-13/R-LiNK_labels_pilot_2019-04-08.l6t)  | model of labels used for pilot   |
+| [R-LiNK_labels_batch1_2019-09-13.l6t](https://github.com/rlink7/rlink_barcode/blob/master/data/pilot_2019-04-08/R-LiNK_labels_batch1_2019-09-13.l6t) | model of labels used for btach 1 |
+| [R-LiNK_labels_batch1_2019-09-13.l6t](https://github.com/rlink7/rlink_barcode/blob/master/data/pilot_2019-09-27/R-LiNK_labels_batch1_2019-09-13.l6t) | model of labels used for btach 2 |
 
 This model can be associated to the _Barcode_ and _Type_ columns of the above Excel tables.
 
