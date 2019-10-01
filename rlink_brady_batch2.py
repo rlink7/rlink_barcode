@@ -39,7 +39,7 @@ TIMEPOINTS = (
 )
 
 INPUT = 'R-LiNK_patients_batch2_2019-09-16.xlsx'
-OUTPUT = 'R-LiNK_labels_batch_2_2019-09-16.xlsx'
+OUTPUT = 'R-LiNK_labels_batch2_2019-09-16.xlsx'
 
 
 def main():

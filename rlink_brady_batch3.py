@@ -38,8 +38,8 @@ TIMEPOINTS = (
     'M03',  # 3 months after Li initiation
 )
 
-INPUT = 'R-LiNK_patients_batch1_2019-09-12.xlsx'
-OUTPUT = 'R-LiNK_labels_batch1_2019-09-12.xlsx'
+INPUT = 'R-LiNK_patients_batch3_2019-09-30.xlsx'
+OUTPUT = 'R-LiNK_labels_batch3_2019-09-30.xlsx'
 
 
 def main():
