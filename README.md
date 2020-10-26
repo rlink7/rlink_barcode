@@ -18,6 +18,8 @@ We have created multiple Excel tables with patient pseudonym codes and label con
 | Batch 2 | 2019-09-27 | [R-LiNK_labels_batch2_2019-09-16.xlsx](https://github.com/rlink7/rlink_barcode/blob/master/data/batch2_2019-09-27/R-LiNK_labels_batch2_2019-09-16.xlsx)     | Labels generated for the above patients - time points M00 and M03  |
 | Batch 3 | 2019-09-30 | [R-LiNK_patients_batch3_2019-09-30.xlsx](https://github.com/rlink7/rlink_barcode/blob/master/data/batch3_2019-09-30/R-LiNK_patients_batch3_2019-09-30.xlsx) | Codes for patients 001 to 020 in centres 08, 11-14, 16             |
 | Batch 3 | 2019-09-30 | [R-LiNK_labels_batch3_2019-09-30.xlsx](https://github.com/rlink7/rlink_barcode/blob/master/data/batch3_2019-09-30/R-LiNK_labels_batch3_2019-09-30.xlsx)     | Labels generated for the above patients - time points M00 and M03  |
+| Batch 4 | 2020-10-26 | [R-LiNK_patients_batch4_2020-10-26.xlsx](https://github.com/rlink7/rlink_barcode/blob/master/data/batch4_2020-10-26/R-LiNK_patients_batch4_2020-10-26.xlsx) | Codes for 10 patients from all centres - Covid-19 crisis delay     |
+| Batch 4 | 2020-10-26 | [R-LiNK_labels_batch4_2020-10-26.xlsx](https://github.com/rlink7/rlink_barcode/blob/master/data/batch4_2020-10-26/R-LiNK_labels_batch4_2020-10-26.xlsx)     | Labels generated for the above patients - time points M00 and M03  |
 
 ## Generate barcodes in Microsoft Word
 
@@ -54,4 +56,4 @@ We have prepared a model to generate labels for biolgical samples:
 This model can be associated to the _Barcode_ and _Type_ columns of the above Excel tables.
 
 Here are a few links of interest:
-* [How to Import Data from Excel to LabelMark 6 Software](https://www.youtube.com/watch?v=ISnkwf5efmg)
+* [How to Import Excel Data into an Existing Template in LabelMark 6](https://support.bradyid.com/s/article/How-to-Import-Excel-Data-into-an-Existing-Template-in-LabelMark-6)
