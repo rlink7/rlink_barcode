@@ -24,6 +24,8 @@ We have created multiple Excel tables with patient pseudonym codes and label con
 | Batch 5 | 2021-01-18 | [R-LiNK_labels_batch5_2021-01-18.xlsx](https://github.com/rlink7/rlink_barcode/blob/master/data/batch5_2021-01-18/R-LiNK_labels_batch5_2021-01-18.xlsx)     | Labels generated for the above patients - time points M00 and M03         |
 | Batch 6 | 2021-05-20 | [R-LiNK_patients_batch6_2021-05-20.xlsx](https://github.com/rlink7/rlink_barcode/blob/master/data/batch6_2021-05-20/R-LiNK_patients_batch6_2021-05-20.xlsx) | Labels to re-print - some time points only                                |
 | Batch 6 | 2021-05-20 | [R-LiNK_labels_batch6_2021-05-20.xlsx](https://github.com/rlink7/rlink_barcode/blob/master/data/batch6_2021-05-20/R-LiNK_labels_batch6_2021-05-20.xlsx)     | Labels to re-print - some time points only                                |
+| Batch 7 | 2021-12-13 | [R-LiNK_patients_batch7_2021-12-13.xlsx](https://github.com/rlink7/rlink_barcode/blob/master/data/batch7_2021-12-13/R-LiNK_patients_batch7_2021-12-13.xlsx) | Labels to re-print - one site exceeded 20 patients                        |
+| Batch 7 | 2021-12-13 | [R-LiNK_labels_batch7_2021-12-13.xlsx](https://github.com/rlink7/rlink_barcode/blob/master/data/batch7_2021-12-13/R-LiNK_labels_batch7_2021-12-13.xlsx)     | Labels to re-print - one site exceeded 20 patients                        |
 
 ## Generate barcodes in Microsoft Word
 
